@@ -1,7 +1,7 @@
 # OSINT: Corporate Recon
 
 Tags: #🧑
-Related to: [[csvtojson]], [[ctfr]], [[curl]], [[dig]], [[exiftool]], [[h8mail]],[[head]], [[host]], [[html2text]], [[IP2Provider]],  [[ipcalc]], [[jq]], [[npm]], [[pigz]], [[shodan]], [[singlefile]], [[theharvester]], [[whois]]
+Related to: [[csvtojson]], [[ctfr]], [[curl]], [[dig]], [[exiftool]], [[h8mail]],[[head]], [[host]], [[html2text]], [[IP2Provider]],  [[ipcalc]], [[jq]], [[npm]], [[pigz]], [[SHODAN]], [[singlefile]], [[theharvester]], [[whois]]
 See also:
 Previous: [[HTB Academy]]
 
